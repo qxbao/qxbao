@@ -1,6 +1,8 @@
-<div align="center">
-  <img src="https://cdn.qxbao.dev/background.jpg"alt="Header Background"/>
-</div>
+<a target="_blank" href="https://www.qxbao.dev">
+  <div align="center">
+    <img src="https://cdn.qxbao.dev/background.jpg" alt="Header Background"/>
+  </div>
+</a>
 
 <div align="center">
 
