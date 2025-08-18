@@ -1,24 +1,27 @@
-<div style="height:150px; width:100%; opacity:0.8; margin-bottom: 20px; overflow: hidden; border-radius: 1rem; border: 1px solid white">
-  <img src="https://cdn.qxbao.dev/background.jpg" style="height:100%; width:100%; object-fit:cover;">
-</div>
-<div style="text-align:center; font-weight:900; font-size:2.5rem;margin-bottom: 20px;">
-  - qxbao -
+<img src="images/header.svg" width="800" height="150"/>
+
+<div align="center">
+
+Welcome to my profile. I'm Quan Bao, a Vietnamese passionate software developer.
+
+I do believe that knowledge should always be free, so if you have any questions or need assistance, feel free to reach out!
+
 </div>
 
-<div style="text-align:center; margin-bottom: 30px">
-  Welcome to my profile. I'm Quan Bao, a Vietnamese passionate software developer. I do believe that knowledge should always be free, so if you have any questions or need assistance, feel free to reach out!
-</div>
 
-<div style="display:flex; gap: 5px; justify-content: center;margin-bottom: 30px">
+<div align="center">
   <a href="https://www.instagram.com/qnba0/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.facebook.com/q2theb/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
   <a href="mailto:dquanbao@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
 </div>
 
-<div style="font-weight:700; font-size:1.75rem; margin-bottom: 10px; text-align: center">
-  Tech Stack
+<div align="center">
+  
+  ## **TECH STACK**
+
 </div>
-<div style="display:flex;gap:5px;justify-content:center; align-items:center">
+
+<div align="center">
 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -60,17 +63,21 @@
 
 </div>
 
-<div style="font-weight:700; font-size:1.75rem; margin-bottom: 10px; text-align: center">
-  Github Stats
+<div align="center">
+
+  ## **GITHUB STATS**
+
 </div>
 
-<div style="margin-bottom: 1rem; display: flex;flex-direction: column; align-items: center; gap: 10px;">
+<div align="center">
   <img style="width:100%;" src="https://github-readme-streak-stats.herokuapp.com/?user=qxbao&theme=tokyonight" alt="mystreak"/>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=qxbao&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 </div>
 
-<div style="text-align:center; font-size: 1.75rem; margin-top: 30px; font-weight: bold; margin-bottom: 10px;">
-  Contributions
+<div align="center">
+
+  ## **CONTRIBUTIONS**
+
 </div>
 
 <picture>
