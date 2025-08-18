@@ -1,4 +1,6 @@
-<img src="images/header.svg" width="800" height="150"/>
+<div align="center">
+  <img src="https://cdn.qxbao.dev/background.jpg"alt="Header Background"/>
+</div>
 
 <div align="center">
 
