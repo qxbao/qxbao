@@ -70,16 +70,6 @@ I do believe that knowledge should always be free, so if you have any questions 
 
 <div align="center">
 
-  ## **GITHUB STATS**
-
-</div>
-
-<div align="center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=qxbao&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-</div>
-
-<div align="center">
-
   ## **CONTRIBUTIONS**
 
 </div>
