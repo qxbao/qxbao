@@ -1,6 +1,6 @@
 <a target="_blank" href="https://www.qxbao.dev">
   <div align="center">
-    <img src="https://cdn.qxbao.dev/thumbnail.jpg" alt="Header Background"/>
+    <img src="https://cdn.qxbao.dev/defaults/thumbnail.jpeg" alt="Header Background"/>
   </div>
 </a>
 
